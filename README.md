@@ -1,0 +1,1 @@
+Perpetually sleepy rainenthusiast and dreamchild predominantly coding in typescript, trying to learn some rust, playing around with docker and sometimes getting a guitar to produce mostly pleasant sounds.

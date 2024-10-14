@@ -3,25 +3,17 @@ Really just some dude that codes and plonks on guitars...
 
 ```yaml
 
-               ,
-             .';
-         .-'` .'
-       ,`.-'-.`\
-      ; /     '-'
-      | \       ,-,
-      \  '-.__   )_`'._
-       '.     ```      ``'--._
-      .-' ,                   `'-.
-       '-'`-._           ((   o   )
-              `'--....(`- ,__..--'
-                       '-'`
+    |\__/|
+   /     \
+  /_.~ ~,_\  
+     \@/
 
-            Shork
-            • Swims around
-            • Eats stuff
+ Fomx
+ • Yips
+ • Yaps
 
 
 
-> The shork [sic] has been added to your inventory
+> The fomx [sic] has been added to your inventory
 > _
 ```
